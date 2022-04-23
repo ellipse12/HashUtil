@@ -1,0 +1,12 @@
+
+---------------SHA512---------------
+
+--Secure Hash Algorithm 512--
+
+Returns a 512 bit hash digest from a given string using the SHA-2 algorithm.
+
+Wikipedia article: https://en.wikipedia.org/wiki/SHA-2
+
+Usage: hash <string> [SHA512, 8]
+
+------------------------------------

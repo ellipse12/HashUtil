@@ -1,0 +1,12 @@
+
+---------------SHA384---------------
+
+--Secure Hash Algorithm 384--
+
+Returns a 384 bit hash digest from a given string using the SHA-2 algorithm.
+
+Wikipedia article: https://en.wikipedia.org/wiki/SHA-2
+
+Usage: hash <string> [SHA384, 7]
+
+------------------------------------

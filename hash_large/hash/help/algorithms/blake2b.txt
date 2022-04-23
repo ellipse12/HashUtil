@@ -1,0 +1,10 @@
+
+---------------BLAKE2b---------------
+
+Returns a 512 bit hash digest from a given string using the BLAKE2 algorithm.
+
+Wikipedia Article: https://en.wikipedia.org/wiki/BLAKE_(hash_function)
+
+Usage: hash <string> [BLAKE2b, 17]
+
+--------------------------------------
