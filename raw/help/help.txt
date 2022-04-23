@@ -1,0 +1,41 @@
+
+---------------------Help----------------------
+Syntex:
+To hash an input:
+hash <string> [algorithm id or name] [length of output (only applys to SHAKE]
+
+Use "hash -? <algorithm id or name>", for documentation of individual algorithms.
+
+Use "hash -f <filepath>" to hash the CONTENTS of a file. (Recommended only for bypassing the character limit on the command line)
+
+
+- [Supported Hash Algorithms] -
+
+ ID | Algorithm  |
+====+============+===========
+ 0  | SHA256     |<-- Default
+ 1  | MD5        |
+ 2  | MDC2       |
+ 3  | MD5-SHA1   |
+ 4  | SHA1       |
+ 5  | SHA224     |
+ 6  | MD4        |
+ 7  | SHA384     |
+ 8  | SHA512     |
+ 9  | SHA512_224 |
+ 10 | SHA512_256 |
+ 11 | SHA3_224   |
+ 12 | SHA3_256   |
+ 13 | SHA3_384   |
+ 14 | SHA3_512   |
+ 15 | SHAKE128   |
+ 16 | SHAKE256   |
+ 17 | BLAKE2b    |
+ 18 | BLAKE2s    |
+ 19 | WHIRLPOOL  |
+ 20 | SM3        |
+ 21 | RIPEMD160  |
+
+Note: using the command "hash" by itself will return the hash of an empty string.
+
+------------------------------------------------

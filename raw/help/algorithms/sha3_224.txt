@@ -1,0 +1,14 @@
+
+---------------SHA3_224---------------
+
+--Secure Hash Algorithm 3 224--
+
+Returns a 224 bit hash digest from a given string using the SHA-3 algorithm.
+
+Notice: SHA3 is the strongest current hashing algorithm and it is recommended for practical use.
+
+Wikipedia Article: https://en.wikipedia.org/wiki/SHA-3
+
+Usage: hash <string> [SHA3_224, 11]
+
+------------------------------------

@@ -1,0 +1,14 @@
+
+---------------MD5---------------
+
+--Message Digest 5--
+
+Returns a 128 bit hash digest from a given string using the MD5 algorithm.
+
+WARNING- MD5 is cryptographically broken and it is advised against use in pratical aplications.
+
+Wikipedia Article: https://en.wikipedia.org/wiki/MD5
+
+Usage: hash <string> [MD5, 1]
+
+------------------------------------

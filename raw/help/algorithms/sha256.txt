@@ -1,0 +1,12 @@
+
+---------------SHA256---------------
+
+--Secure Hash Algorithm 256--
+
+Returns a 256 bit hash digest from a given string using the SHA-2 algorithm.
+
+Wikipedia article: https://en.wikipedia.org/wiki/SHA-2
+
+Usage: hash <string> [SHA256, 6, None]
+
+------------------------------------

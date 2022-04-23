@@ -1,0 +1,12 @@
+
+---------------SHA224---------------
+
+--Secure Hash Algorithm 224--
+
+Returns a 224 bit hash digest from a given string using the SHA-2 algorithm.
+
+Wikipedia article: https://en.wikipedia.org/wiki/SHA-2
+
+Usage: hash <string> [SHA224, 5]
+
+------------------------------------

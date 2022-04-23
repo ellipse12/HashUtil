@@ -1,0 +1,12 @@
+
+---------------RIPEMD160---------------
+
+--Ripe Message Digest 160--
+
+Returns a 160 bit hash digest from a given string using the RIPEMD algorithm.
+
+Wikipedia Article: https://en.wikipedia.org/wiki/RIPEMD
+
+Usage: hash <string> [RIPEMD160, 21]
+
+----------------------------------------

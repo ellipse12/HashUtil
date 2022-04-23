@@ -1,0 +1,14 @@
+
+---------------SHA512_256---------------
+
+--Secure Hash Algorithm 512_256--
+
+Returns a 256 bit hash digest from a given string using a truncated SHA512 algorithm.
+
+It is a subset of the SHA-2 algorithm
+
+Wikipedia article: https://en.wikipedia.org/wiki/SHA-2
+
+Usage: hash <string> [SHA512_256, 10]
+
+------------------------------------
