@@ -9,3 +9,4 @@ You will also want to add the files to your systems Path, how to do so can be fo
 
 # Usage 
 Open the command prompt and either navigate to the download using cd (hash.exe), or if you have already added it to path you can do it anywhere. To use it just type hash + <your input> and it will hash it using the default algorithm of SHA256. Note - just typing in "hash" will return the SHA256 hash of an empty string or "" which should come up with: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 
+you can also use Hash --help for a more detailed help menu.
