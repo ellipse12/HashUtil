@@ -1,5 +1,5 @@
 # HashUtil
-HashUtil is a simple Command Line Utility (CLI) for cryptographically hashing text input.
+HashUtil is a simple Command Line Utility (CLI), for cryptographically hashing text input.
 
 
 # Downloads 
